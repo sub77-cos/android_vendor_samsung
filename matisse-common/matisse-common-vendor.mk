@@ -72,7 +72,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
     vendor/samsung/matisse-common/proprietary/lib/libTs_J_Accm.so:system/lib/libTs_J_Accm.so \
     vendor/samsung/matisse-common/proprietary/lib/libTs_J_Awb.so:system/lib/libTs_J_Awb.so \
-    vendor/samsung/matisse-common/proprietary/lib/libwvm.so:system/lib/libwvm.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/B08QT_libchromatix_imx175_common_res0.so:system/vendor/lib/B08QT_libchromatix_imx175_common_res0.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/B08QT_libchromatix_imx175_common_res1.so:system/vendor/lib/B08QT_libchromatix_imx175_common_res1.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/B08QT_libchromatix_imx175_common.so:system/vendor/lib/B08QT_libchromatix_imx175_common.so \
@@ -208,8 +208,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so:system/vendor/lib/rfsa/adsp/libadsp_denoise_skel.so \
