@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/lib/E08QL_libTsAf.so:system/lib/E08QL_libTsAf.so \
     vendor/samsung/matisse-common/proprietary/lib/E08QL_libTs_J_Accm.so:system/lib/E08QL_libTs_J_Accm.so \
     vendor/samsung/matisse-common/proprietary/lib/E08QL_libTs_J_Awb.so:system/lib/E08QL_libTs_J_Awb.so \
-    vendor/samsung/matisse-common/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
     vendor/samsung/matisse-common/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
     vendor/samsung/matisse-common/proprietary/lib/libAfSingle.so:system/lib/libAfSingle.so \
     vendor/samsung/matisse-common/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
